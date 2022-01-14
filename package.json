@@ -1,5 +1,6 @@
 {
   "name": "gif-expert-app",
+  "homepage": "https://gnvera.github.io/react-gift-expert-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
